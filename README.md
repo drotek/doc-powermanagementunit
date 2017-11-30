@@ -15,4 +15,4 @@ This book is meant to provide you with all informations on how to use the Power 
 
 Book written by Valentin Lacomme. 
 
-If you have suggestions, if you spotted errors, if you think there are mistakes, or if you think you can help making this book better, feel free to email me at docs[at]drotek.com!
+If you have suggestions, if you spotted errors, if you think there are mistakes, or if you feel you can help making this book better, feel free to email me at docs[at]drotek.com!
