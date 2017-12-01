@@ -50,4 +50,4 @@ If you're using two batteries, you can connect both **POWER1** and **POWER2** ou
   <img src="./images/con2.jpg?raw=true" alt="PMU connected pix"/>
 </p>
 
-After connecting the PMU to your autopilot, you can connect a battery to the PMU to check the correct functionning of your system. 
+After connecting the PMU to your autopilot, you can connect a battery to the PMU to check the correct functionning of your system, seeing your autopilot turn up and boot normally. After that, you will need to install the PMU onto you machine, be it a drone, rover, or any other device!
