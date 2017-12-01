@@ -34,6 +34,8 @@ Next, you should plug one of your batteries to see the four LEDs of the module l
 
 ###Power distribution
 
+_Note: For safety reasons, take care of closing the case and setting up the top case part again in order to prevent any electrical shocks._
+
 You'll then need to connect the power supply outputs to your autopilot. Using a Pixhawk 3 PRO autopilot, you'll simply have to use one of the 6 pins JST-GH cables shipped along the module to connect the **POWER1** from the PMU to your **POWER1** port on the left side of the Pixhawk 3 PRO. The pinout of both connectors is ready to plug and doesn't need specific cables.
 
 <p align="center">
@@ -48,3 +50,4 @@ If you're using two batteries, you can connect both **POWER1** and **POWER2** ou
   <img src="./images/con2.jpg?raw=true" alt="PMU connected pix"/>
 </p>
 
+After connecting the PMU to your autopilot, you can connect a battery to the PMU to check the correct functionning of your system. 
