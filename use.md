@@ -2,6 +2,8 @@
 
 You will find here how to install your PMU into your setup efficiently, as well as how to use current and voltage sensing.
 
+_ **Note: All along the setup of the PMU, be careful of never touching the inner boards of the module when the batteries are connected to the PMU to avoid any electrical shocks! ** _
+
 ###Soldering the battery cables
 
 Before soldering the battery cables onto your PMU, you will need to open the top part of the PMU in order to access the soldering pads easily. To do so, use a 2.5 mm Torx screwdriver to unscrew the top of the case open.
