@@ -36,11 +36,13 @@ Next, you should plug one of your batteries to see the four LEDs of the module l
 
 _Note: For safety reasons, take care of closing the case and setting up the top case part again in order to prevent any electrical shocks._
 
-You'll then need to connect the power supply outputs to your autopilot. Using a Pixhawk 3 PRO autopilot, you'll simply have to use one of the 6 pins JST-GH cables shipped along the module to connect the **POWER1** from the PMU to your **POWER1** port on the left side of the Pixhawk 3 PRO. The pinout of both connectors is ready to plug and doesn't need specific cables. You can also use a single battery and use both **POWER** outputs to power your Pixhawk 3 PRO autopilot. In this case, if the **POWER1** output is disfunctioning, the second output **POWER2** can supply power to your autopilot and keep it working, _whether you're using one or two batteries_.
+You'll then need to connect the power supply outputs to your autopilot. Using a Pixhawk 3 PRO autopilot, you'll simply have to use the 6 pins JST-GH cables shipped along the module to connect the **POWER1** from the PMU to your **POWER1** port on the left side of the Pixhawk 3 PRO, and the **POWER2** output from the PMU to the corresponding **POWER2** input of the autopilot. The pinout of both connectors is ready to plug and doesn't need specific cables.
 
 <p align="center">
   <img src="./images/con1.jpg?raw=true" alt="PMU connected pix"/>
 </p>
+
+Even in case you use a single battery and use both **POWER** outputs to power your Pixhawk 3 PRO autopilot to use its power redundancy ability, if the **POWER1** output is disfunctioning, the second output **POWER2** can supply power to your autopilot and keep it working, _whether you're using one or two batteries_.
 
 If you're using another autopilot or device (ie. the Dropix autopilot), you may want to take a look at the exact pinout of the PMU ([following this link](wire.md)) to see if the pinout is compatible with your device. You can adapt using customised cables. 
 
