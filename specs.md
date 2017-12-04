@@ -7,7 +7,7 @@
 - Black **Selective Laser Sintering** case with laser screen-printing
 
 <p align="center">
-  <img src="./images/cot1.jpg?raw=true" alt="PMU Measurements"/>
+  <img src="./images/cot1.png?raw=true" alt="PMU Measurements"/>
 </p>
 
 ###Electrical Specifications
