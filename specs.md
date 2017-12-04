@@ -2,7 +2,7 @@
 
 ###Mechanical Specifications
 
-- Height x Length x Width : 40 x 58 x 58 mm
+- Height x Length x Width : 24 x 53.4 x 53.4 mm
 - Weight : 48 g
 - Black **Selective Laser Sintering** case with laser screen-printing
 
