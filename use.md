@@ -20,7 +20,7 @@ After opening the case, you'll need to solder your battery cable onto the PMU. Y
 
 #####Using a single battery:
 
-If you plan on using a single battery, it won't be necessary to solder two battery connectors to the PMU. You should simply solder your cable onto the corresponding soldering pads on the right, taking care of the polarity. You can help yourself with the picture below.
+If you plan on using a single battery, it won't be necessary to solder two battery connectors to the PMU. You should simply solder your cable onto the corresponding soldering pad on the right, taking care of the polarity. You can help yourself with the picture below.
 
 #####Using two batteries:
 
@@ -30,6 +30,8 @@ If you plan to use two batteries, please take care of their characteristics. You
   <img src="./images/pads.png?raw=true" alt="PMU Pads description"/>
 </p>
 
+[CABLES SOLDERED PIC]
+
 Next, you should plug one of your batteries to see the four LEDs of the module light up. If you're using two batteries, you can also plug both of your batteries to check out the LEDs.
 
 <p align="center">
@@ -38,7 +40,7 @@ Next, you should plug one of your batteries to see the four LEDs of the module l
 
 ###Powering your ESCs
 
-The PMU can also provide a power supply bay, outputting the battery power directly out of the PMU to make soldering your ESCs directly onto the PMU possible. To do so, you'll need to solder your ESCs' power cables onto the **BATT OUT +** and **BATT OUT -** soldering pads of the PMU, taking care of the polarities of your ESC's cables. You may want to keep the case opened in order to do this soldering operation. 
+The PMU can provide a power supply bay, outputting the battery power directly out of the PMU to make soldering your ESCs directly onto the PMU possible. To do so, you'll need to solder your ESCs' power cables onto the **BATT OUT +** and **BATT OUT -** soldering pads of the PMU, taking care of the polarities of your ESC's cables. You may want to keep the case opened in order to do this soldering operation. 
 
 [PIC ESCs soldered]
 

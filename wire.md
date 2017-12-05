@@ -42,7 +42,7 @@ Although the two outputs _5V AUX_ and _12V AUX_ deliver different voltages, they
 | 5       | GND                  |
 | 6       | GND                  |
 
-#####12V AUX Output
+####12V AUX Output
 
 | Wire N° | Corresponding pinout |
 |---------|----------------------|
