@@ -15,6 +15,6 @@
 - Use of 2 batteries simutaneously
 - Maximum Voltage Input : Up to 12S battery (50,4V) simultaneously
 - Maximum flowing current capacity : 100A per battery (200A total)
-- Current sensing sensibility : 13mA/h
-- Voltage sensing sensibility : 3.17mV/A
+- Current sensing sensibility : 26.66mA/V
+- Voltage sensing sensibility ratio : 15.9
 - Direct battery power output for ESCs
