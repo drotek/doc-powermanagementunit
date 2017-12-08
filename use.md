@@ -31,7 +31,7 @@ If you plan on using a single battery, it won't be necessary to solder two batte
 If you plan to use two batteries, please take care of their characteristics. You must use batteries that have **the same number of cells** (ie. two 6S batteries) and which have approximately the **same charge level**. In such case, you should solder your battery connector cables on both of the soldering pads available on the PMU. You can use the picture below to know polarities and locations.
 
 <p align="center">
-  <img src="./images/pmucon.png?raw=true" alt="PMU soldering description"/>
+  <img src="./images/pmucables.png?raw=true" alt="PMU soldering description"/>
 </p>
 
 Next, you should plug one of your batteries to see the four LEDs of the module light up. If you're using two batteries, you can also plug both of your batteries to check out the LEDs.
