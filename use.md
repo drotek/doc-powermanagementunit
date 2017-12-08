@@ -27,10 +27,8 @@ If you plan on using a single battery, it won't be necessary to solder two batte
 If you plan to use two batteries, please take care of their characteristics. You must use batteries that have **the same number of cells** (ie. two 6S batteries) and which have approximately the **same charge level**. In such case, you should solder your battery connector cables on both of the soldering pads available on the PMU. You can use the picture below to know polarities and locations.
 
 <p align="center">
-  <img src="./images/pads.png?raw=true" alt="PMU Pads description"/>
+  <img src="./images/pmucon.png?raw=true" alt="PMU soldering description"/>
 </p>
-
-[CABLES SOLDERED PIC]
 
 Next, you should plug one of your batteries to see the four LEDs of the module light up. If you're using two batteries, you can also plug both of your batteries to check out the LEDs.
 
@@ -42,7 +40,9 @@ Next, you should plug one of your batteries to see the four LEDs of the module l
 
 The PMU can provide a power supply bay, outputting the battery power directly out of the PMU to make soldering your ESCs directly onto the PMU possible. To do so, you'll need to solder your ESCs' power cables onto the **BATT OUT +** and **BATT OUT -** soldering pads of the PMU, taking care of the polarities of your ESC's cables. You may want to keep the case opened in order to do this soldering operation. 
 
-[PIC ESCs soldered]
+<p align="center">
+  <img src="./images/esc.jpg?raw=true" alt="Esc Soldering example"/>
+</p>
 
 ###Power distribution
 
