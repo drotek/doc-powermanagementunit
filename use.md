@@ -54,7 +54,7 @@ _Note: For safety reasons, take care of closing the case and setting up the top 
 
 Whether you use one or two batteries, the PMU will provide two independent power sources. This way, if you're using an autopilot that's _redundant-power-supply ready_, you'll be able to have your autopilot supplied power in a safer way, the second BEC replacing the first one if it happens to fail.
 
-Using a Pixhawk 3 PRO autopilot, you'll simply have to use the 6 pins JST-GH cables shipped along the module to connect the POWER1 from the PMU to your POWER1 port on the left side of the Pixhawk 3 PRO, and the POWER2 output from the PMU to the corresponding POWER2 input of the autopilot.
+Using a Pixhawk 3 PRO autopilot, you'll simply have to use the 6 pins JST-GH cables shipped along the module to connect the **POWER1** from the PMU to your **POWER1** port on the left side of the Pixhawk 3 PRO, and the **POWER2** output from the PMU to the corresponding **POWER2** input of the autopilot.
 
 If you're using another autopilot or device (ie. the Dropix autopilot), you may want to take a look at the exact pinout of the PMU ([following this link](wire.md)) to see if the pinout is compatible with your device. You can adapt using customised cables.
 
