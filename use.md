@@ -18,6 +18,10 @@ Before soldering the battery cables onto your PMU, you will need to open the top
 
 After opening the case, you'll need to solder your battery cable onto the PMU. You should solder your battery cable on the _BATT IN_ solder pads, taking care of the polarity of your cable/battery and the one indicated on the top of the PMU case along with details below. You can use _XT60_ or _TPLUG_ connectors, and the module accepts up to two simultaneously plugged 12S batteries.
 
+<p align="center">
+  <img src="./images/pads.png?raw=true" alt="PMU soldering description"/>
+</p>
+
 #####Using a single battery:
 
 If you plan on using a single battery, it won't be necessary to solder two battery connectors to the PMU. You should simply solder your cable onto the corresponding soldering pad on the right, taking care of the polarity. You can help yourself with the picture below.
