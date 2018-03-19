@@ -4,7 +4,7 @@ Along with the numerous drone parts Drotek is selling, Drotek has developed a co
 
 Designed to perform with drones, it is plug-and-play with the [Pixhawk 3 PRO autopilot](https://pixhawk.drotek.com/en/) that Drotek released the same year 2017.
 
-This book is meant to provide you with all informations on how to use the Power Management Unit efficiently and what can be done with it.
+This book is meant to provide you with all information on how to use the Power Management Unit efficiently and what can be done with it.
 
 <p align="center">
   <img src="./images/drotek.jpg?raw=true" alt="Drotek Logo"/>
