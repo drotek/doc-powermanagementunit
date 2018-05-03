@@ -1,0 +1,11 @@
+{
+        
+    "pluginsConfig":
+    {
+        "favicon": "favicon.ico",
+	    "layout": {
+			"headerPath" : "layouts/website/header.html"
+	    }
+        
+    }
+}
