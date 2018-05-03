@@ -9,7 +9,7 @@ The Power Management Unit _(shortened to PMU in this book)_ was designed by Drot
 #Features
 
 - Smart and efficient design
-- Robust 3D printed case
+- Robust printed case
 - Powerful LED status information
 - ESCs powering bay
 
