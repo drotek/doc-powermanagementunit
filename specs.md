@@ -6,7 +6,7 @@
 * Weight : 48 g
 * Black case with laser screen-printing
 
-![PMU Measurements](https://github.com/drotek/power-management-unit-user-guide/tree/ae2a5b1b9465faff87519d0636f5844ab56f5e4a/images/cot1.png?raw=true)
+![](.gitbook/assets/cot1.png)
 
 ## Electrical Specifications
 
