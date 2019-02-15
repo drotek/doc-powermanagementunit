@@ -2,7 +2,7 @@
 
 You will find here how to install your PMU into your setup efficiently, as well as how to use current and voltage sensing.
 
- _**Note: All along the setup of the PMU, be careful of never touching the inner boards of the module when the batteries are connected to the PMU to avoid any electrical shocks!**_  
+> _**All along the setup of the PMU, be careful of never touching the inner boards of the module when the batteries are connected to the PMU to avoid any electrical shocks!**_
 
 ## Soldering the battery cables
 
@@ -36,15 +36,15 @@ The PMU can provide a power supply bay, outputting the battery power directly ou
 
 ## Power distribution
 
-_Note: For safety reasons, take care of closing the case and setting up the top case part again in order to prevent any electrical shocks._
+> _For safety reasons, take care of closing the case and setting up the top case part again in order to prevent any electrical shocks._
 
 Whether you use one or two batteries, the PMU will provide two independent power sources. This way, if you're using an autopilot that's _redundant-power-supply ready_, you'll be able to have your autopilot supplied power in a safer way, the second BEC replacing the first one if it happens to fail.
 
 Using a Pixhawk 3 PRO autopilot, you'll simply have to use the 6 pins JST-GH cables shipped along the module to connect the **POWER1** from the PMU to your **POWER1** port on the left side of the Pixhawk 3 PRO, and the **POWER2** output from the PMU to the corresponding **POWER2** input of the autopilot.
 
-If you're using another autopilot or device \(ie. the Dropix autopilot\), you may want to take a look at the exact pinout of the PMU \([following this link](wire.md)\) to see if the pinout is compatible with your device. You can adapt using customised cables.
+If you're using another autopilot or device \(ie. the Dropix autopilot\), you may want to take a look at the exact pinout of the PMU \([following this link](wire.md)\) to see if the pinout is compatible with your device. You can adapt using customized cables.
 
 ![](.gitbook/assets/con2.jpg)
 
-After connecting the PMU to your autopilot, you can connect a battery to the PMU to check the correct functionning of your system, seeing your autopilot turn up and boot normally. After that, you will need to install the PMU onto you machine, be it a drone, rover, or any other device!
+After connecting the PMU to your autopilot, you can connect a battery to the PMU to ensure the proper functioning of your system, seeing your autopilot turn up and boot normally. After that, you will need to install the PMU onto you machine, be it a drone, rover, or any other device!
 
