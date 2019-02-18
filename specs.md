@@ -1,6 +1,6 @@
 # Specifications
 
-## Mechanical Specifications
+## Mechanical
 
 * Height x Length x Width : 24 x 53.4 x 53.4 mm
 * Weight : 48 g
@@ -8,7 +8,7 @@
 
 ![](.gitbook/assets/cot1.png)
 
-## Electrical Specifications
+## Electrical
 
 * Use of 2 batteries simutaneously
 * Maximum Voltage Input : Up to 12S battery \(50,4V\) simultaneously
