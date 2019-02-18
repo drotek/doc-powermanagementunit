@@ -12,9 +12,6 @@ The Power Management Unit _\(shortened to PMU in this book\)_ was designed by Dr
 * Robust printed case
 * Powerful LED status information
 * ESCs powering bay
-
-![](.gitbook/assets/ico1.png)
-
 * Double battery input for safer and more reliable setup.
 * Two independent 5V regulated and protected outputs \(autopilot redundant power supply capable\).
 * One 5V independent auxiliary output.
