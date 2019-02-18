@@ -6,7 +6,7 @@ The differents wirings of the outputs of the Power Management Unit are compliant
 
 The pinout of both _POWER1_ and _POWER2_ outputs is the same. You'll find the number of each pin of the connector on the picture and its corresponding signal in the table underneath the picture.
 
-![](.gitbook/assets/pmuwir2.png)
+![](../.gitbook/assets/pmuwir2.png)
 
 ### POWER 1 & 2 Outputs
 
@@ -23,7 +23,7 @@ The pinout of both _POWER1_ and _POWER2_ outputs is the same. You'll find the nu
 
 Although the two outputs _5V AUX_ and _12V AUX_ deliver different voltages, they are both routed the same way, so that the only difference between the two outputs is the voltage supplied. Even though these two outputs differ only in their voltage output, you'll find both pinouts for these two connectors. You can look up the numbers on the picture and see the corresponding signal in the table below.
 
-![](.gitbook/assets/pmuwir1.png)
+![](../.gitbook/assets/pmuwir1.png)
 
 ### 5V AUX Output
 

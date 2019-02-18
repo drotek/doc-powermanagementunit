@@ -4,7 +4,6 @@
 * [Power Management Unit](features.md)
 * [Hardware](hardware/README.md)
   * [Drawing](hardware/drawing.md)
-* [Specifications](specs.md)
-* [Wiring](wire.md)
+  * [Wiring](hardware/wire.md)
 * [How to use](use.md)
 
