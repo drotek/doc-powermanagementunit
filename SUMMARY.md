@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](features.md)
+* [Power Management Unit](features.md)
 * [Hardware](hardware/README.md)
   * [Drawing](hardware/drawing.md)
 * [Specifications](specs.md)
