@@ -18,16 +18,6 @@ After opening the case, you'll need to solder your battery cable onto the PMU. Y
 
 If you plan on using a single battery, it won't be necessary to solder two battery connectors to the PMU. You should simply solder your cable onto the corresponding soldering pad on the right, taking care of the polarity. You can help yourself with the picture below.
 
-### Using two batteries:
-
-If you plan to use two batteries, please take care of their characteristics. You must use batteries that have **the same number of cells** \(ie. two 6S batteries\) and which have approximately the **same charge level**. In such case, you should solder your battery connector cables on both of the soldering pads available on the PMU. You can use the picture below to know polarities and locations.
-
-![](.gitbook/assets/pads.png)
-
-Next, you should plug one of your batteries to see the four LEDs of the module light up. If you're using two batteries, you can also plug both of your batteries to check out the LEDs.
-
-![](.gitbook/assets/leds.jpg)
-
 ## Powering your ESCs
 
 The PMU can provide a power supply bay, outputting the battery power directly out of the PMU to make soldering your ESCs directly onto the PMU possible. To do so, you'll need to solder your ESCs' power cables onto the **BATT OUT +** and **BATT OUT -** soldering pads of the PMU, taking care of the polarities of your ESC's cables. You may want to keep the case opened in order to do this soldering operation.
